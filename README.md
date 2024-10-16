@@ -1,10 +1,10 @@
-Why bother reading so much??
-Check it out here
-Live Link --> https://game-theory-sports-hub-assignment.netlify.app/
 
 
 
 ```markdown
+Why bother reading so much??
+Check it out here
+Live Link --> https://game-theory-sports-hub-assignment.netlify.app/
 # Game Theory Booking Application
 
 **College ID: IIT2021165**
