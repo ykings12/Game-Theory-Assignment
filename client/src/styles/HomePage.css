@@ -1,0 +1,27 @@
+.home-container {
+    height: 100vh;
+    /* background-image: url('/background.jpg');  */
+    /* Reference to image in the public folder */
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form-wrapper {
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .form-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
