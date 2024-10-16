@@ -1,4 +1,8 @@
-Here’s a complete `README.md` template for your project, including all the specified sections:
+Why bother reading so much??
+Check it out here
+Live Link --> https://game-theory-sports-hub-assignment.netlify.app/
+
+
 
 ```markdown
 # Game Theory Booking Application
