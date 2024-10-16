@@ -3,7 +3,7 @@ Here’s a complete `README.md` template for your project, including all the spe
 ```markdown
 # Game Theory Booking Application
 
-**College ID: [Your College ID Number]**
+**College ID: IIT2021165**
 
 ## Introduction
 
@@ -82,15 +82,6 @@ Follow these steps to set up the project locally:
 - If using MongoDB Atlas, make sure to whitelist your IP address in the network access settings.
 - Use `npm install --legacy-peer-deps` if you encounter any dependency issues during installation.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE) (if applicable).
-```
-
-### Customization
-
-- Replace `[Your College ID Number]` with your actual college ID.
-- Fill in the links for the deployed applications if they are available.
-- Adjust any section that might need specific information relevant to your project.
 
 This README should provide a clear and comprehensive overview for anyone looking to set up and run your project. Let me know if you need any further modifications!
