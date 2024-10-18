@@ -71,14 +71,13 @@ Follow these steps to set up the project locally:
 
 ## Deployed Applications
 
-- **Frontend**: [Frontend Deployment Link](#) (if applicable)
-- **Backend**: [Backend Deployment Link](#) (if applicable)
+https://game-theory-sports-hub-assignment.netlify.app/
 
 ## Assumptions and Limitations
 
 - Assumes that users have created accounts to book slots.
 - Limited to the predefined sports and courts set in the database.
-- The application currently does not support payment processing (if applicable).
+- The application currently does not support payment processing.
 
 ## Special Instructions
 
@@ -88,4 +87,3 @@ Follow these steps to set up the project locally:
 
 
 
-This README should provide a clear and comprehensive overview for anyone looking to set up and run your project. Let me know if you need any further modifications!
